@@ -1,0 +1,14 @@
+doctype! html
+<head>
+  <style>
+     <p>{colcor:#oo4  }
+   </style>
+ <body>
+   <p>我的第一个网页</p><br/>
+   <h1>这里要写些什么呢</h1>
+   <table>
+     <tr>
+        <td>内容一我是谁</td>
+        <td>内容二我的职业是</td>
+      </tr>
+   
