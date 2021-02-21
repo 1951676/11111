@@ -6,7 +6,7 @@
   <style>
     p{color:blue 
         }
-    h2{color:green}
+    strong{color:green}
   </style>
 </head>
 <body>
