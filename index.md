@@ -4,7 +4,9 @@
   <meta  charset="UTF-8">
   <title>我我的标题V</title>
   <style>
-    p{color:red  }
+    p{color:red  border:100%  
+        width:600px
+          hight:78px}
   </style>
 </head>
 <body>
@@ -18,6 +20,7 @@
   <p>我看见了一个小孩子，好像铠甲勇士</p>
   <p>我看见太阳坠落，像是一个火球</p>
   <em>我看见一朵花，像是一个小小的蝴蝶</em>
+  <div class=
   
  </body>
  </html>
