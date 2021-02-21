@@ -5,8 +5,7 @@
   <title>我我的标题V</title>
   <style>
     p{color:red  
-        width:600px
-          hight:78px}
+        }
   </style>
 </head>
 <body>
