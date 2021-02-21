@@ -4,8 +4,9 @@
   <meta  charset="UTF-8">
   <title>我我的标题V</title>
   <style>
-    p{color:red  
+    p{color:blue 
         }
+    h2{color:green}
   </style>
 </head>
 <body>
