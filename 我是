@@ -1,7 +1,7 @@
 doctype! html
 <head>
   <style>
-     <p>{colcor:#oo4  }
+     <p>{colcor:red }
    </style>
  <body>
    <p>我的第一个网页</p><br/>
