@@ -6,7 +6,7 @@ doctype! html
    </style>
  <body>
    <p>我的<mark>第一个网</mark>页</p><br/>
-   <h1>这里要写些什么呢</h1>
+  
    <table  align:center>
      <tr bold:29  >
         <td>内容一我是谁</td>
