@@ -1,4 +1,5 @@
 doctype! html
+<html>
 <head>
   <style>
      <p>{colcor:red }
@@ -6,9 +7,11 @@ doctype! html
  <body>
    <p>我的<mark>第一个网</mark>页</p><br/>
    <h1>这里要写些什么呢</h1>
-   <table>
-     <tr>
+   <table  align:center>
+     <tr bold:29  >
         <td>内容一我是谁</td>
         <td>内容二我的职业是</td>
       </tr>
-   
+   <b>我在这里看见了什么呢</b>
+   <small>你猜</small>
+</htlm>
